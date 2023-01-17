@@ -220,6 +220,7 @@ border: 0 !important;
 }
 
 .nav-list{
+  list-style: none;
   gap: 2rem;
 }
 
@@ -385,7 +386,6 @@ border: 0 !important;
 footer > a
 {
   padding: 5rem 2rem;
-  gap: 3rem;
   grid-template-rows: 1fr 1fr 1fr;
   align-items: center;
   justify-content: center;
